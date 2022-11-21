@@ -49,23 +49,20 @@ DART studio screen shots for linear interpolation
 DART studio screen shots for joint interpolation 
 
 
-![robo 1](https://user-images.githubusercontent.com/94165377/203060293-f5b32f25-f4d9-4318-a7e2-7c5651caa99f.jpg)
 
 
 
+![robo 1](https://user-images.githubusercontent.com/94165377/203111214-51ba3b38-a7df-43bf-8354-b8111c351300.jpg)
 
 
 
 ### Robot movements 
-![robo2](https://user-images.githubusercontent.com/94165377/203060440-5424e4a1-7468-410c-aafd-ebb6ec19a7ed.jpg)
 
+![robotics1new](https://user-images.githubusercontent.com/94165377/203111245-bfb1857f-e14d-47b2-83a2-be1da4719b67.jpg)
+![robotics2new](https://user-images.githubusercontent.com/94165377/203111270-f8950b0d-212d-40a5-88c0-97510269421f.jpg)
+![robotics3new](https://user-images.githubusercontent.com/94165377/203111282-d5c7e3ff-87dd-45bc-a580-077067b9b01a.jpg)
 
-
-![robo3](https://user-images.githubusercontent.com/94165377/203060455-f3128e78-5b9d-4636-ab65-3d894457f210.jpg)
-
-
-
-
+![robotics4new](https://user-images.githubusercontent.com/94165377/203111289-8216d69c-84eb-4e54-a85e-d9f6e80a4ee7.jpg)
 
 
 
